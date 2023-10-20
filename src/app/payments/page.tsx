@@ -7,7 +7,7 @@ async function getData(): Promise<Payment[]> {
       id: "728ed52f",
       amount: 100,
       status: "pending",
-      email: "m@example.com",
+      email: "a@example.com",
     },
     {
       id: "728ed52f",
@@ -97,7 +97,7 @@ async function getData(): Promise<Payment[]> {
       id: "728ed52f",
       amount: 100,
       status: "pending",
-      email: "m@example.com",
+      email: "z@example.com",
     },
   ];
 }
