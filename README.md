@@ -2,6 +2,10 @@ Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next
 
 No desenvolvimento, foram utilizadas as ferramentas Next.js, Tailwind CSS, Typescript, Shadcn/UI e TanStack com o objetivo de aprender mais sobre essas tecnologias.
 
+Exemplo do que foi desenvolvido:
+
+![Tabela](images/payments.png)
+
 ## Começando
 
 Primeiro, execute o servidor de desenvolvimento:
